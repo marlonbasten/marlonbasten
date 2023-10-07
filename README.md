@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Marlon!</h1>
 
-<p align="center">I'm an Web-Developer that loves Laravel, Symfony and React!</p>
+<p align="center">I'm an Web-Developer that loves PHP (especially Laravel) and React!</p>
 
 
 <h2 align="center">My certificates</h2>
